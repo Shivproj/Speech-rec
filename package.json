@@ -1,0 +1,14 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "Voice rec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shiv Sai",
+  "license": "ISC",
+  "dependencies": {
+    "gtts": "^0.2.1"
+  }
+}
